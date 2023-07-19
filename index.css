@@ -1,0 +1,291 @@
+* {
+     margin: 0%;
+ }
+ 
+ .header {
+     background: inherit;
+     width: 100%;
+     height: 68px;
+     background-color: rgb(34, 24, 74);
+     display: flex;
+     justify-content: center;
+ 
+ }
+ 
+ .header2 {
+     width: 70%;
+     height: 63px;
+     display: flex;
+     
+ }
+ 
+ .FedEx {
+     display: flex;
+     align-items: center;
+     width: 20%;
+     height: px;
+ 
+ }
+ 
+ .FedEx img {
+ 
+ 
+     width: 160px;
+     margin-top: 5px;
+ 
+ }
+ 
+ .box1 {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     width: 15%;
+     height: 68px;
+     font-family: TCCC-UnityText-Regular, TCCC-UnityText, sans-serif;
+ }
+ 
+ .box2 {
+     width: 15%;
+     height: 68px;
+     display: flex;
+     align-items: center;
+     font-family: TCCC-UnityText-Regular, TCCC-UnityText, sans-serif;
+     justify-content: center;
+ }
+ 
+ .box3 {
+     width: 15%;
+     height: 68px;
+     display: flex;
+     align-items: center;
+     font-family: TCCC-UnityText-Regular, TCCC-UnityText, sans-serif;
+     justify-content: center;
+ }
+ 
+ .box4 {
+     width: 15%;
+     height: 68px;
+     align-items: center;
+     display: flex;
+     font-family: TCCC-UnityText-Regular, TCCC-UnityText, sans-serif;
+     justify-content: center;
+ }
+ .header2 p{
+     color: white;
+ }
+ .box5{
+     width: 15%;
+     height: 68px;
+     align-items: center;
+     display: flex;
+     font-family: TCCC-UnityText-Regular, TCCC-UnityText, sans-serif;
+     justify-content: center;
+     padding-left: 111px;
+ }
+ .box6{
+     width: 5%;
+     height: 10px;
+     padding-top: 22px;
+     padding-left: -27px;
+     padding-right: 165px;
+     display: flex;
+ }
+ .box6 img{
+     padding-right: 20px;
+ }
+ .text{
+     font-family: 'Roboto', sans-serif;
+     text-align: center;
+     margin-top: 70px;
+     font-size: medium;
+     line-height: 80px;
+     
+       
+ }
+ .text1{
+     font-family: 'Roboto', sans-serif;
+     text-align: center;
+     line-height: 10px;
+     
+ }
+ .text2{
+     font-family: 'Roboto', sans-serif;
+     text-align: center;
+     line-height: 75px;
+ }
+ button{
+     background:  #ff6200;
+     font-size: 19px;
+     color: white;
+     width: 194px;
+     height: 62px;
+    
+ }
+ text{
+     font-family: 'Roboto', sans-serif;
+     text-align: center;
+     line-height: 100px;
+ }
+ .img{
+     width: 40px;
+     height: 30px;
+     font-size: 16px;
+     margin-left: 11cm;
+     margin-right: 10px;
+     text-align: center; 
+      
+     
+ }
+ h4{
+     margin-top: -20px;
+     letter-spacing: normal;
+     font-size: 18px;
+     text-align: center;
+     line-height: -20px;
+     color: #333;
+ }
+ .logo{
+     width: 100%;
+     height: 260px;
+     font-family: sans-serif;
+     margin-bottom: 130px;
+ }.logo-center{
+     width: 1000px;
+     height: 264px;
+     padding-left: 260px;
+     display: flex;
+ }
+ .box{
+     width: 250px;
+     height: 240px;
+ }
+ .book{
+     width: 250px;
+     height: 240px;
+ }
+ .truck{
+     width: 250px;
+     height: 240px;  
+ }
+ .gift{
+     width: 250px;
+     height: 240px;
+    
+ }
+ .box img{
+     margin-left: 60px;
+     margin-bottom: 24px;
+ }
+ 
+ .logo h1{
+     font-size: 18px;
+     line-height: 24px;
+     text-align: center;
+     color: #333333;
+ }
+ .logo p{
+     font-size: 18px;
+     line-height: 24px;
+     text-align: center;
+     color: #333333;
+ }
+ .book img{
+     margin-left: 60px;
+     margin-bottom: 24px;
+ }
+ .truck img{
+     margin-left: 60px;
+     margin-bottom: 24px;
+ }
+ .gift img{
+     margin-left: 60px;
+     margin-bottom: 24px;
+ }
+ .box p{
+     margin-bottom: 10px;
+ }
+ .book p{
+     margin-bottom: 10px;
+ }
+ .truck p{
+     margin-bottom: 10px;
+ }
+ .gift p{
+     margin-bottom: 10px;
+ }
+ .logo-center div{
+     margin-left: 30px;
+ 
+ }
+ .end{
+     width: 100%;
+     height: 267px;
+     
+ }
+ .endcenter{
+     width: 920px;
+     height: 267px;
+     margin-left: 275px;
+     display: flex;
+     font-family: Dangrek, sans-serif;
+ }
+ .company{
+     width: 242px;
+     height: 227px;
+ }
+ .coustomer{
+     width: 242px;
+     height: 227px;
+ }
+ .fedex{
+     width: 242px;
+     height: 227px;
+ }
+ .language{
+     width: 242px;
+     height: 227px;
+ }
+ .endcenter h1{
+     color: #4d148c;
+     font-size: 10px;
+     text-align: start;
+     line-height: 11.5px;
+     letter-spacing: 0.75px;
+ }
+ .coustomerend{
+    margin-top: 60px;
+   
+ }
+ .endcenter p{
+     color: #333333;
+     font-size: 11px;
+     line-height: 36px;
+     text-align: start;
+ 
+ }
+ .endimg{
+     width: 199px;
+     height: 43px;
+     padding-left: 267px;
+ }
+ .footer{
+    width: 100%; 
+    display: flex;
+    height: 51px;
+    background-color: #4d148c;
+ }
+ .right{
+     width: 50%;
+     text-align: center;
+ }
+ .left{
+     width: 50%;
+     text-align: center;
+     
+ }
+ .footer p{
+     color: white;
+     font-family:'Roboto', sans-serif ;
+     margin-top:10px;
+
+ }
